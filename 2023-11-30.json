@@ -1,0 +1,26 @@
+{
+  "name": "Tony Hunter",
+  "age": 23,
+  "address": {
+    "street": "Fokag Manor",
+    "city": "Zuvveso",
+    "state": "MA",
+    "zip": "96446"
+  },
+  "contact": {
+    "phone": "(354) 840-1162",
+    "servicePhone": "800699656"
+  },
+  "birthday": "1979-10-21T20:26:55.454Z",
+  "ip": "110.252.132.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Dos numcug daze ne otneewe go dekeiw un afugelus dota fifer ta di gabaf pota wuz. Juasdi wonbotu zinsih ahnu bafzomen re bipemlam gafdaham uf ke vu ki. No jeotofe puenpe su zoha mi tambo guta do fucaocu gih sofiw daliz nabepi sakuoh paage tul.",
+    "bio": "Gozweb vihan udazijzuk nisri uz ciru upowo elekale co ji madof ukiuni. Ko vi uzowovet pa op cavweb udogolowe wuw iga calubti sogwu aba ame sijbu. Legwi vi zo jopke majcowa iciruz jubegu voiwnu dor useli vaf im nu bolufuh. Wipuvi lekjatfi we dorutboc muszadhal ji lobhi fenik jermisu kagut meg gon tuekbe."
+  },
+  "apiKey": "a092db633b0471399baaf10c14b2ce942cd6f87a527232c6cc3fb3028d32d59c",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
