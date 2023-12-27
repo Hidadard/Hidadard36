@@ -1,0 +1,26 @@
+{
+  "name": "Joel Wolfe",
+  "age": 58,
+  "address": {
+    "street": "Tivah Junction",
+    "city": "Musgocu",
+    "state": "TX",
+    "zip": "60319"
+  },
+  "contact": {
+    "phone": "(438) 960-3293",
+    "servicePhone": "800564634"
+  },
+  "birthday": "2001-04-19T04:02:16.807Z",
+  "ip": "102.250.228.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Kogib uro pusit zure bikine wicjiki huagiveh jemamki oguta sat si gegkoser vimisve ju muhve. Micrus fa us cakco wa midmewnab wahfoz da dobfe totpej duegahi henadat. Lumhi isonilubi se ere ideutopi ejjoine jajtorso huvfuk jupbe icapu uki akbuv sejrujeg repfi hululo kiwkur fulsosbe.",
+    "bio": "Finzu jed azuvu etoisja sinasig usca pa dobdebig wicudta hifa cuspi fuagi giwvuhcel supcubew eceru kelpa. Kut kujrapod elesikjok puwij iptivtih wisdu nacukum ircu ivu wupareobe ja uk. Co bac gewfiris zaz lab covatti nasdo lehsu uponowas vasu mi ge."
+  },
+  "apiKey": "e812a8e216cc294bf4e06040e6b001f32e204578b02595ad71da6db3a68044da",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
