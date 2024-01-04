@@ -1,0 +1,26 @@
+{
+  "name": "Jeremiah Banks",
+  "age": 36,
+  "address": {
+    "street": "Nidaji Ridge",
+    "city": "Zisohutu",
+    "state": "AL",
+    "zip": "85844"
+  },
+  "contact": {
+    "phone": "(636) 948-6638",
+    "servicePhone": "800667479"
+  },
+  "birthday": "1972-03-07T06:18:08.877Z",
+  "ip": "248.54.220.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Fe lavloawe caarehec ifonikbat jevce doka cogcab hej zepbema bu gofefol feh wollihu fowe unadut. Dieviko pedin jonewuw inurawga himla sifhemar hum uzbek luwog okmet vitefol fak codric falos jiow kibne iri. Jozgasni goecuuro wib sece pe gozona fodpoj nomupehi ibuka damkutvu ju sa guaf.",
+    "bio": "Zit fotew noc vobgog lujla zakto tudpahi ewjavi ulimihof wim cezcaduj edpiptac tuwfuzo eziudegaz jedij owug. Lif rifacor golreb ha mah uz nih ovi upituaf busugeoje pesazufe jubzomec ra upjontod. Idjavap nehis agre fab tuzetod dub misosu taorzid vorufegok dupaluf te afetomar savamgar ga go."
+  },
+  "apiKey": "824680aec10df691fbaa04d928cda43d188310ec09c209c77c8423faa0adff15",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
