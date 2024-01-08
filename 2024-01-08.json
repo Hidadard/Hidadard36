@@ -1,0 +1,26 @@
+{
+  "name": "Ethel Porter",
+  "age": 34,
+  "address": {
+    "street": "Odubu Plaza",
+    "city": "Akifabla",
+    "state": "MO",
+    "zip": "03643"
+  },
+  "contact": {
+    "phone": "(679) 385-3471",
+    "servicePhone": "800758514"
+  },
+  "birthday": "1969-05-18T04:45:56.400Z",
+  "ip": "224.125.98.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Titauf ren tegcakono ogaco azivimpap wosga akamec jenid juflu uka isik lofi vuhrul nilverop ror. Lic mufi ovvos rih couro lav fifam ece gavuhuri atesov gul ohonij budida. Ebluvdu lini bokjikus otiefo co de efotef wuhme volooz cowpubwu adasudob usu.",
+    "bio": "Hag di per mubtij ditenu gip noleja bigdar subgig vul vojemhun no voza codha enuvit emwu mulmadjan. Rab higun lol vufa fomane pe giji bemfu buga vipzuz du isa miber pevhi mabep pished pehased. Hugahdiz go oru netin torunno jiejuciv pesawvu huduk kimizgi duwdolfag mivaf zahahured."
+  },
+  "apiKey": "e0a53f98529ed3cd2f90faf6ed5181aaa556cfea610d4d448b0f281f86c589d9",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
