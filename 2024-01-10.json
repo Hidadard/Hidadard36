@@ -1,0 +1,26 @@
+{
+  "name": "Duane Peters",
+  "age": 21,
+  "address": {
+    "street": "Lezun Street",
+    "city": "Cangalbi",
+    "state": "ID",
+    "zip": "36809"
+  },
+  "contact": {
+    "phone": "(958) 890-5764",
+    "servicePhone": "800296334"
+  },
+  "birthday": "1960-04-22T01:07:03.265Z",
+  "ip": "4.162.125.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Jibuc bacwe nitibcis limu nogutoj fodjup co vaj cafujupa leapi ihacve vudlushob geita ihcilsol somoh hikba. Wuj zew nutsamzuj ju micir colekri nathakki eciuno sit gu mowaw fujmunu nakiv hikocviz. Hospagguw vuej ge zihit epazeka hujur voptateka jatnaika jadikwo ca ho sigosu ladbo vimgamwu ridbeg sa caj uzifugiv.",
+    "bio": "Evewa uwbaf cirnag ezuzaomi eripof abiemhov ewti cedcooc fam im vucab upehoira. Onmo ivufenje lifahu ji bilug guev vakvo noclo kedmos dumibwo je adipa. Igeoba kusa juhawli zuzja dijnut baew mogudedi jagsusoja ojookbe hu tojud gemga rimim."
+  },
+  "apiKey": "949d407b53b7d16dca037a1534483331bc9efe1638a219ef694a42f0369ab7ee",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
