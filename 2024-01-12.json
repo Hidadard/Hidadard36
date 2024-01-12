@@ -1,0 +1,26 @@
+{
+  "name": "Francis Houston",
+  "age": 32,
+  "address": {
+    "street": "Vato Glen",
+    "city": "Hukukneb",
+    "state": "AL",
+    "zip": "14541"
+  },
+  "contact": {
+    "phone": "(616) 532-1692",
+    "servicePhone": "800919752"
+  },
+  "birthday": "1996-12-28T03:27:38.899Z",
+  "ip": "159.173.245.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Diulaku ut civpa irdaglo jop kutzejid vagate fe met muscet ofuobam boawlof hera gu du hugi manen. Senet jivcekpi edeuveb ap eg lizbun kih vephib odaze abwagaz linaw sobaeh filteni ok. Cazageno bouweha miberaw lafjirmup izwapic di hin jor pah boedfev mer jemkasa coha bacujni zuvcet fupgab.",
+    "bio": "Geknihton vu waed keji tektebjak ruz maga binumo gicijer zubzogo pefof zasawjuw icjuwpip elsamlo ko bocjic. Jocon gal lo mabapsa necdo wiltojwek ji hemozo waozeow coblun ci epi her izvu mame se. Kezim bodwutna ninogju sono pij zugta zicej lu kigdoci ovuemofo jekipim du."
+  },
+  "apiKey": "c9d3e9a489b271f82c41327240870674cf898e5c0a2bb78168a0f5dba5af22a0",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
