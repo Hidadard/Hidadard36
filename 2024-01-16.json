@@ -1,0 +1,26 @@
+{
+  "name": "Jean Hodges",
+  "age": 56,
+  "address": {
+    "street": "Cusari Point",
+    "city": "Mijubu",
+    "state": "MI",
+    "zip": "00977"
+  },
+  "contact": {
+    "phone": "(206) 551-4487",
+    "servicePhone": "800787279"
+  },
+  "birthday": "1973-11-20T06:00:14.007Z",
+  "ip": "175.33.78.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Of zuaro umeiclok oposeb erunef kozda ro metsu suwdam igu miludtag du hekbe jul kunelduh ibo imbijlo. Goas udukopji wela kagvo fove lo jefvewsi vahofmar pamema keitaaj oveajcib hedonif esevoco. Wegzejac omilo piw zer orzi momipjap pupin hamef dolijeri tifda opivcuf mogake abjusmal ahwi.",
+    "bio": "Co woggolhi or le suhmosu jozofoba aj nupmoc lapevkaz zopkebbec itbo zinmepo fo ocdaem. Ugo fivivfuw mesi se becek zimoaw devuki mu timrucma ojenekid loju jadapwer. Afpedu ulukureru no lenimem bu etipaz zol verechuk fah si we ujimu uw. Ojujef cadcoar jo gimebe hujacwa zipazsat ve wowef lik duw pac bocikij pilla toluru viijucu pah tuw wim."
+  },
+  "apiKey": "d7bc5aa9439f94ebc5c76c082d3af5f9526b0add6a29234e86481f75b2f9189f",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
