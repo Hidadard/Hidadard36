@@ -1,0 +1,26 @@
+{
+  "name": "Travis Mack",
+  "age": 49,
+  "address": {
+    "street": "Ozuva Center",
+    "city": "Sovevlac",
+    "state": "MT",
+    "zip": "30814"
+  },
+  "contact": {
+    "phone": "(439) 776-9660",
+    "servicePhone": "800146354"
+  },
+  "birthday": "1970-02-07T12:13:38.625Z",
+  "ip": "241.62.98.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Uka te vezi vinsu mo bezacwo buczum cocabfot wuh ow vekiol vajwuk raf wohusi sefevuh ot. Gisig cudwuz huwvirle iz odihacne inoandi piaku ze oc edoad ve cekdeir. Jud uvomij tos su eg sufohez gubrad mamowmu fuddezbo hat od tari zegvome uwagiz hifavif.",
+    "bio": "Hot vi atepaize lu ow vufdec wa lincolsa meem ugwaes idlemki lufunuf verceh aze. Cemlo zu sodamjad vaud ehnes tufara ne puzhibju gi cabsi ziv budiwvok if buftipi. Cebcap fisuc edite do vugu bac rifli posusot vifiid ruwe bokem giv ifpetne zacdoj sa gabjeeg. Suco abe webat vuwudouz kafohius pihom repiib man icuporfep iweig ilopi suekce ikupaik duked nudizkiw cubsoluv rudvolhud ted."
+  },
+  "apiKey": "cc040f52f0d0839af44ad1dc68f544da458059990ad3b0d1665c945da3b9a32e",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
