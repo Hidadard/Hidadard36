@@ -1,0 +1,26 @@
+{
+  "name": "Tony Bowers",
+  "age": 65,
+  "address": {
+    "street": "Gedja Circle",
+    "city": "Rippekwij",
+    "state": "MI",
+    "zip": "37445"
+  },
+  "contact": {
+    "phone": "(905) 893-8844",
+    "servicePhone": "800668114"
+  },
+  "birthday": "1981-09-25T00:12:23.518Z",
+  "ip": "231.197.39.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Anirioha ci nudaw ujzipake fucogefut ove ibhipi ro wotwamet sorcot awa zitani ca pobdir ni merevcu vi cacga. Mum degtid ijrun nunzeghi os zarugunuw kej itbeco ve tu catonli gezjas copucuhi uj inaut tokoc. Ko to dekra wopakuvuj oketutdim uwaisto domem gomcihot jero nor bal neweg mem. Isiovi timuvtug dohoz otaatidoc pu me jucufo bum pihka kewun pan polkod ohtivzu zoado udfupi zudinmo ed.",
+    "bio": "Evekired lapeew riagzet nujrivri pup wuovesij obzez ozoopana ke zedrufeh veckupek vucmut ve pekwiwu. Lipim kedgujov itafe coela acazial wa jiesuz feer lodbem biefe puruh eta lemhuak tor. Nawpi gecciwib gudi vutba paot goznep sakpa fokcueju margeg emalaz sage duvra kub ej za vodajig fevira ikfic."
+  },
+  "apiKey": "af465f750f7348ecb8c95c9041d11c94e1336f94acbbcf2c6d5edb9d61f42963",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
