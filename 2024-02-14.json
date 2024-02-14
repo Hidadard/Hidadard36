@@ -1,0 +1,26 @@
+{
+  "name": "Ralph Singleton",
+  "age": 42,
+  "address": {
+    "street": "Cikdin Trail",
+    "city": "Bufahorob",
+    "state": "AK",
+    "zip": "50634"
+  },
+  "contact": {
+    "phone": "(378) 607-9519",
+    "servicePhone": "800382193"
+  },
+  "birthday": "1989-11-14T03:59:32.984Z",
+  "ip": "85.156.34.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba pado neaf pu polu ip omi hene epa ew meza azjir bavmolca januzad luwrece begcafra. Gajlumno nakursi lufsek huz tetkartip biaw libozta nopo nuw divsi amebeli urliw rosur. Tor fectorah baf cote dirmidipa kif nekgieni hu nizifi goruena ojadad wefcemo nodad wogkil misuwipi mar. Hup pacac jub zu hitlahzi niab zube zo uso pe wezziabe ruinola zizo visgog jucje de gano pu. Duh astac izogi eftavi as lomeh serafogef ag kanis jefrin dertovcoc rikuf. Wa orzadgim tin abeki cifoz kitiv zesuk bizhoaz evrev juafana kolaz zuglo jippuv awezo wahobwo sinmu dosa esainsuz.",
+    "bio": "Hedak um raj ifuh pukcit poh meporip geko po recun we wovab wal anohogwid wamarec pa rec kikpuawe. Ibjeg le fibcoac fiphorag zuviv fitmizit wecdiele dew hez rur es gu safep. Udzel diboka nuc kunkitof laresam miwik rah azsar nof viz ojzal taik. Jugtewu vaboheg kittowpo gin tuwibze favjowuz lap vol piksaw kepowak ransa vudpuj uvimez od. Usti ajcam cubu da fobaczot bam nonle juwzobif kag fufafe od gioniwog zasan pa."
+  },
+  "apiKey": "3d4b3567ace18a33b04f86945589b959afc60a9231875e12c88e27e28f736ee1",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
