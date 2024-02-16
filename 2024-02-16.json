@@ -1,0 +1,26 @@
+{
+  "name": "Ralph Wade",
+  "age": 37,
+  "address": {
+    "street": "Izja Turnpike",
+    "city": "Foheneg",
+    "state": "AL",
+    "zip": "16118"
+  },
+  "contact": {
+    "phone": "(374) 226-6908",
+    "servicePhone": "800543569"
+  },
+  "birthday": "1970-10-05T13:27:44.105Z",
+  "ip": "22.230.6.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Newse fois zugjuoki bi hus se kise colnusir tazza gabase ho ufzuhjog naw luhheli kecih zalvari ev lo. Fozafko ref tub koiko ezho kam ihozu dawfa geg ig sab ijowude daduwih ruabero wasdubho nuig. Hum cos rugac to semogoji mosadede kecped no cah ketcekun bu setultid me has.",
+    "bio": "Jetuw obo vupugisi niis palzuwec pojemi zoulipi diwabmew hep jucon vojef seh gaogi ho pizlibloc keedfa pajfazfe zunugtor. Kerhu cebuf hi jug kedoma apoesu gibug hen zohaj matnuas inafnoc vecana tivvo. Ge wif egaku zieli nuge ewdu nutupa seko ha fuv ragdu iser fecre rote uzmivi obpomu noh ferfel."
+  },
+  "apiKey": "b15952430647cc302754ade7190d64ab5ed1377062203045315d6b38085db7f0",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
