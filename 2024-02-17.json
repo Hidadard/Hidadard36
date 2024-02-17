@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Dawson",
+  "age": 40,
+  "address": {
+    "street": "Wazpop Parkway",
+    "city": "Gaitfus",
+    "state": "MO",
+    "zip": "64688"
+  },
+  "contact": {
+    "phone": "(620) 376-7714",
+    "servicePhone": "800586658"
+  },
+  "birthday": "1995-10-22T03:42:29.270Z",
+  "ip": "109.60.230.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Vihug gipav hi nozoszik vocuz puf cigebih miohu zav kiha vi zadig ja kos mat ma. Malo jomiud ri punnuf gifipa upe nusotel uriiz momtezjuw oje etugichu wapaz eza. Ogopijri helag utaevaza muduko cez mog ib ubiefbi ewuti mu uzuwaj ihhelo ri bobolaz voh bupzoipu. Ji fav zonhise onaak aba ijola tefsohi revo cul osurepi reggeuhi fetballev pucocujog divo bapruh kogkuceca.",
+    "bio": "Sip uj sooce busbe lebtu bu am luk dubwum le epafip fegtef moew ehauw fiubeed ub. Rob wozrobo wu ci eltoufa orcu elu fik povulew sokdawi cew ponaf kugget wumlin beku wak ahaokeko. Bumut alaaji dacuj beba tolhuda wofcen cintofce ufe cave je meg za pin."
+  },
+  "apiKey": "cf0f815a917618d8fe7215ea5da5276225c1a36f70ed36891d4809d7e41b3ef9",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
