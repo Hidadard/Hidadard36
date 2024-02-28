@@ -1,0 +1,26 @@
+{
+  "name": "Rhoda Walsh",
+  "age": 50,
+  "address": {
+    "street": "Larmul Street",
+    "city": "Behuzpa",
+    "state": "AZ",
+    "zip": "83358"
+  },
+  "contact": {
+    "phone": "(725) 659-8955",
+    "servicePhone": "800542589"
+  },
+  "birthday": "1984-12-27T22:30:55.222Z",
+  "ip": "75.133.248.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Uhuta torfafac sev cik to vunpo ipo remuca mikutab dopave dewusruf mobviw kek awo jambarok doikana. Ho be ne lovzaf recdut fecan uvsuopu viru nel celme godlucrum niwifane tuz ha sa ufolec sega zosazucu. Kodmuaro jo pu zepesuce wil mu huka caake gu bigajvi za ek kusis memtugid rocga vogbowpif adorir. Pa akcu fujal go ihko riho ga himmago esdafen todirbu elefopje cujbaf. Daheog paeka jeiloeh loznak pesif ul jife jud ruhabu fidujfek ece fah sottib fow ba. Murmivu nav tapog iveog curezi budmaza ani juhumoro mokgiram si tachim nem lo.",
+    "bio": "Bunudrig rilmol nun vikec decdahe raco zahpoeg gocbudaz zupduf fivirjo vob ber wobgim ru bi giufu. Ham usvegje ulijodut re cepehodu kezrobah vivina zeola icbosu nubzicas nagozhul toemu di. Ucidaj mebgojbu wabug panez ek bol maagfuf mewoliw vewe dof rirmemfis aw tiude avmubo adilo kuseke aveiledep."
+  },
+  "apiKey": "a9dd5c920a2500b57b88d899152f204f2504cbb9ceebe7da735dbf46411ac78a",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
