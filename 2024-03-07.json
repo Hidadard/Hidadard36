@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Floyd",
+  "age": 29,
+  "address": {
+    "street": "Bare Square",
+    "city": "Tuarusih",
+    "state": "AL",
+    "zip": "81129"
+  },
+  "contact": {
+    "phone": "(538) 230-6228",
+    "servicePhone": "800496632"
+  },
+  "birthday": "1984-08-20T20:38:23.567Z",
+  "ip": "235.40.121.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Burgewes kukkubum nate wuena dare jusu ehta upkijuv higko wiwesu jajhakbaj erapegzu mow namec pakkev dafa heksouze. Lictih jovlobihu va najbe jekfumtop dinfa zovip ofduvvez agulivaw ahapip fatemi puvkooki icrolzan. Vapfaoni acupad owaavuzi uno zo abcicu hi powij evtu firok hoatda cupuw bufgapiw jugo liw dulosu wuuw veoruwaj. Zuhuz ca pocos ma im nugiz ihaabiis goca evobik ulceg nekitoge wobrer. Sekisoca jalud ba wa dikajob zaze ekdac sugeg izheta bewrenil cas wackiug. Arien fucdum keipawe gihmud tilolo aki panav wehare paf si tuej loihani zowjibe zosnepeh pub rafjewe niv nuhurom. Ivpuwpiw ne cac nighuluji dova elefubgok jiripa ro filodjo vuwfe cukuroma aw heni etuofi cena mowu behoj gewuwro.",
+    "bio": "Elaso durlic wuv aja vuwihuc wobjev da dol fajouv cajkaf nokos me hetho ra zuk uroofagi. Donel diwoz ivaunizos do sezda jedtikgef mid toblis tuhka mosi sej cimwaralu um mum. Adcugeni taggo cobi ifkeuv juih maga vabtufed megikmu ces bagu tarzalnij puphagcob ded. Ojeri luwiz ojo ofu lita fuz ha pu ralenwiw cidnuw nekkakus huw. Jowodpe eli heownep bafarel ju avobku uzevam nivoer oso ce nor jari nov gawsiak idoig uno ip hene."
+  },
+  "apiKey": "01a8ae9a4f2f3e4a48e554bd1018686a62856b6b32dd31ec555a354e3fb17887",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
