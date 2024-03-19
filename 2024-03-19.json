@@ -1,0 +1,26 @@
+{
+  "name": "Curtis Fowler",
+  "age": 44,
+  "address": {
+    "street": "Pigvo Turnpike",
+    "city": "Sodihza",
+    "state": "DC",
+    "zip": "31604"
+  },
+  "contact": {
+    "phone": "(287) 373-2185",
+    "servicePhone": "800148542"
+  },
+  "birthday": "1983-11-05T16:42:53.432Z",
+  "ip": "91.74.223.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe kit pogdem vig ac cozzed sagi acvi le uciatopa okeduhu idefeh unodek juzavuez vova ete. Re ikilabu ebga ara orreb ofwo hoz cogomra mabos asove webaduwa dacsezaf nu fetoc. Ipfim manze rib iwa ih we nozlatfe hidmotwib fav cibocuv ga lumpebhe vicma vivtizri.",
+    "bio": "Cil heake iwove nuza uwukelip apu zimewovi liba uta dej lurke riwsen. Jijher canos demvica cu jaw lanos hiubuzib nin unlurzi jivsuvi birzuhi awsoc nu igitji. Saduze otutileli vur do ruhroan loscozus dicro awtieti mowsuvaw suvaowi livu cicuju ehzuc."
+  },
+  "apiKey": "a0b43930cb5483dd6f38fa2ee47fd241d29f46cdcf59cb2d659b35deaf5157de",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
