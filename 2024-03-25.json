@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Brooks",
+  "age": 54,
+  "address": {
+    "street": "Loiz Mill",
+    "city": "Teuvwam",
+    "state": "AK",
+    "zip": "93840"
+  },
+  "contact": {
+    "phone": "(586) 766-7914",
+    "servicePhone": "800147499"
+  },
+  "birthday": "1983-07-27T11:26:59.244Z",
+  "ip": "185.98.41.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Ende ufifiz upatur ut uze ogunejih ganurlep ipbo comro pag wed wommi kazba. Vis pa kutubdab kiebiak pacifij heid didjuguh zounove va bunece to ajzarho zupkepo urzu uz ze we. Ongos ug zodujak pesaf cud nu tut tiw pu ah ivsac camum izuhicete owwicjeh do ujo. Vet ulkuloso huw pot tipboaj labe ucfagu kol uc vapimga foh wutu esra wulab pamambuv jukundo dimumdu do. Jin wovu nefnuduc ge tovin oboma pe kibag limza piic zer fi georkuf ezetiose kul lercuwwu tijgof sezop.",
+    "bio": "Sico alinew hotubukow pu idi eliseva sih fak pi vem hi daowwik hecujlu ugwit me. Kuenaji hil ac bufhocmuj ocu ahilop ifegema onnav za vumter zo wumwiz. Taze putajkeg abeloeg naepojo cuah gil cejben ceslopuda amu ho damigri erakanehi novil owvagwet kokuwilob. Jerabodo felab maregok nersaz vishis ni uzipid valkuble vur lojoj kajdubiz leenwe loigele tumefo dezricta sit."
+  },
+  "apiKey": "fafda6c180701ecdb05d882056ad8a1ec04a8c1231d289cb1649322ccfd40c43",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
