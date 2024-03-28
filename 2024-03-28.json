@@ -1,0 +1,26 @@
+{
+  "name": "Birdie Hogan",
+  "age": 54,
+  "address": {
+    "street": "Egji Road",
+    "city": "Hefpeliw",
+    "state": "DC",
+    "zip": "27900"
+  },
+  "contact": {
+    "phone": "(989) 317-8077",
+    "servicePhone": "800483434"
+  },
+  "birthday": "1981-12-10T06:53:33.919Z",
+  "ip": "88.163.87.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruviv tefkapiz sodkab kuvalju im bivci hu rosta pegjiv wuis egaavilu uhu. Voborwi la ogpunvo sinwar zal hig vamkiw zi ive ovgew uffagu nawaloihu. Sonap wusvuc leh keh ta rap oz vavzor hij ezeah wofinur lufegode ohoesevo wuspo ama sic ibibakbih. Luzdupub bewaoso sa raneh kirikdel wezo guwakpe ohpi zubho buhibe duvhac mapfo hi.",
+    "bio": "Wusucu ezpe fokagov wiflu ene puhhus jeru ne otanan ezezifu ezo giccal sem ri. Ivta letne ekaeme toguvin up botem fijfo iriro ki ob lon wojnoczu bas utis. Rusigif kigfe ale aba otkesac sa ata uco irusup in re mail ahifu uda lob."
+  },
+  "apiKey": "604c4d6fa16c5edab45c555edfd0ed625fcfb51d7218b04cd0b5b9bc81fe3c7b",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
