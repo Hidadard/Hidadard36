@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Nguyen",
+  "age": 25,
+  "address": {
+    "street": "Epha Point",
+    "city": "Ikeilar",
+    "state": "NE",
+    "zip": "79130"
+  },
+  "contact": {
+    "phone": "(961) 505-9876",
+    "servicePhone": "800524924"
+  },
+  "birthday": "1980-03-13T00:01:54.801Z",
+  "ip": "65.65.42.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuj putoc sibvalek iwfu duneh noca bej rutpubof ilvut lu ulnalup juwzolfa najerat napane haw hubi ujbefgaf dibnavev. Fawlu zoj gom bukun ruv iboju ejvu ur pafnabmup sofigojo jokrat pufim jibzu. Pe ve tihbuw va ser lozlurut pule izze abipo fo tar azefaro doj. Faf bu ake mad ukaduf ibrifep vi rajolo zine da moot kigru mehi jicdawbi midel obafacon dilni. Wopefet panuiw icifuvecu zelnal riltojbir kavramig pa wifedede je if etbe zu cewat. Talow aw zegzatmu ul bup wonnotwe pocitu fad foj buridvo dihnimli covsanpo herumo. Mosu dap kizozda menle lolas ijimiv lu roz sidiemi nogbulajo vidhad tavur eceehujaj tan sesjofini zuahovi.",
+    "bio": "Bana hi eh owopedi tedfoji casumtoc teka dopu ma zucosle sujsi tekfodvod pa sarneodi ivujiipa. Col to go owuupni opibofol bi livoc takcusa geicukam webiuwu liwlait muhiwlo sapicuboj of posnogi touz gezoroj. Gelsiwez dap joh di tucuw teejozo rorcid ojivamgo hargaleg lagop efuvsup hetutcod jiw cuson rozbav kamilna."
+  },
+  "apiKey": "bdd4e07e7c6fed59941b4245cdf6f00d9ab003a6f5b09b3d0046ddc0c64b5a4e",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
