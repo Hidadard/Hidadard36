@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Cain",
+  "age": 23,
+  "address": {
+    "street": "Ledfoh Heights",
+    "city": "Sisvizese",
+    "state": "OK",
+    "zip": "58421"
+  },
+  "contact": {
+    "phone": "(428) 591-1652",
+    "servicePhone": "800596115"
+  },
+  "birthday": "1982-03-19T02:20:35.629Z",
+  "ip": "156.19.99.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Iw cum befjov rav zohjiwnev tirul suvhe koddo zuwi goswi zodi tuvif ife daszubwa vu ibizeta cimufical. Afi waspen bolah kec riw libruwor korji be ceipuare dawafco vavge zolmutfa somo ces biize wiblok. Bag pek cuc gu onean dojso facmi jup venka vumsocwi zuhwat wehusvi basofi iwnagef fug banbor. Lol hafna lug ve hiejosu jup ti lackuj nuvvun marmufo ecusano ujuijieh turbanu uvoami baw ra.",
+    "bio": "Havob vukutuemu majjed sa betsiz riskapez zaboul mak walosun lifhersen doz rijafi ipbi lopmeled naisiko fa sij. Dogocvuz caslemram berejnod nawumru wouflek maz saeji uzo dis bu rezam von ekli vohewowo mu ecubo. Linconjos ufuteara obnuzed abnum silpur zadca omoodded go koomvir belvepa gur onawa ha ve les abajut. Wos rivnu juhjici uffokneh biih homu kablekil meih fur ge wa zow voifo pe piez. Cipluvewe ec iphag so koflu ogo pa osehi wimajo emfozul caddol newra ju. Pe su wektubfip iraoha cu irvogi mop as zo gohag hes ceokeko uvba vemjeglaz noku."
+  },
+  "apiKey": "3a4f3694435f3c1c435d0467d96f836a80d69736ce40ac1fc0628a1d9f40ce3e",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
