@@ -1,0 +1,26 @@
+{
+  "name": "Mike Fields",
+  "age": 48,
+  "address": {
+    "street": "Usizij Point",
+    "city": "Ectasiru",
+    "state": "CT",
+    "zip": "94207"
+  },
+  "contact": {
+    "phone": "(954) 652-6812",
+    "servicePhone": "800143155"
+  },
+  "birthday": "1996-01-31T01:54:38.604Z",
+  "ip": "163.146.81.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Deg cur vezesa bigiw nat vawaza teedi mijab narubo afosa bik zazcumgo. Bohnimcer ak carre docwac dumiglaj evapenzuv codat pulittos desoj ilijav darsu na tolrucum. Oge nola jugeca zeta zu ehe ozigaate wuwsav umelitab loje wul socwi ebo gow woirdaj.",
+    "bio": "Odvojwi ocrefac lerow gotvoada mepajos pe zovoj dudasi nudacof fiegirir ozje co rece. Pepmalfit tibal ge buufa paf ov ociefu ewu tuufisa hadezol hu ranilaw giteowe je ruvirjo utizi gow pozieli. Egoafe kasjoz hu loftigen da ecwedupa gaf jububeli amo jofuv pirimeew gejzivbuk luj gib ovjo. Dunhumen sufusuwa nusvuvze nob fahekad si et fu wokrev li ig zuwu coepimaf."
+  },
+  "apiKey": "388d38d0dbb26194d0a07a9ec9adefecc88f0e4969a6b7885f5c057d5673777a",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
