@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Ray",
+  "age": 51,
+  "address": {
+    "street": "Mecimo View",
+    "city": "Nukirko",
+    "state": "NC",
+    "zip": "02632"
+  },
+  "contact": {
+    "phone": "(285) 339-8735",
+    "servicePhone": "800681681"
+  },
+  "birthday": "1992-01-18T13:24:17.440Z",
+  "ip": "172.73.202.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Ucutela no ogcuz betamed podo juh not pehafer udogi zitcigse mifip hul ibumuzic domuvda tuhikboh. Ro faj zijize ag bowatuit liija kasokov zuk poof pucac roj hun jipve hi. Nurzipkig webu diapu jivvoem novakohe hilgokgir li kezed ev cone uw cetap pojo kikukem wavlucek fek. Ke tesonwi unuitne wejej azuso nahun cev duhub ja mooh nurewi siis. Niwdu hazrima zumajda zobeci fim wile dijwor vahnata fojdik tovvoc zukihmon di zatirek fohpisud. Keb ap woz saaruvi ut tur jaupo mulmerun ojcok egu makih mew tapseva zevozlew salre waf. Usete kezasa kufihfo uwoosolo agpera jespu du judbiv epcaopu vu dadu mog.",
+    "bio": "Dauhu vambair udna ru duitja ewe ur waldada pacso voc mula hec owotgig jiz nonnom mekcauca rahec. Uhmu pemrevde odijat onkawac weotola emi odjok di ga hodaba dophemdul lerewfuh bifih pokmu juvduwuw umieh ev moblo. Hejibbow ce carapu caspugpuf bogdig eno itazo he faw genaw sez uwkiwom ceviri hoikuca. Ric dutaat honobwo uto didrolga sagezcuj kopi eg iziugo wavila ris houfoj leusoag di. Joeku ar nariul erwucig sah je cimun puhew ijiruh jiklinpin enbapu gurubbi hogufa. Jed ovoleako dem badevuw keato bakbita cughunsof aw muvdit hathe oke lag liw caabitoz li vu dubsepkep."
+  },
+  "apiKey": "460c40ab11883e81e563e98b0c8db80f7cc9da317a595750705f8a81d1249057",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
