@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Parks",
+  "age": 32,
+  "address": {
+    "street": "Girbos Junction",
+    "city": "Atufogod",
+    "state": "UT",
+    "zip": "39135"
+  },
+  "contact": {
+    "phone": "(313) 699-9030",
+    "servicePhone": "800365296"
+  },
+  "birthday": "1997-12-31T01:21:00.354Z",
+  "ip": "12.96.142.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Ajirup pini ji fu ovke bis solriom mupi zipzelaj ewe mihsef dut ug utma guzecibon jawfetvo. Ma huckad fafivcuj voltozdes itupe cow rotti tuwcef ufahevu lus se rufitifa vefseja come. Toce panda ihabesnuf la najuje hucmarjuh ilnalo adcic se memefo je ep gisduj seuje wageg ke ividez. Macruhut fusu zumid iwahic lam iv jebejtel likeju pevlu nih ko eskebu necve nauhu ga jibnesdo.",
+    "bio": "Ovoeme limvud vapohwa laov eh senhegdip romopson tibewfa iwzomilu aroeva joc mogki fiwtuj digjipwan cus. Ri ok vid mafhuco derodpu gosuj us oleif jejra sabo in vol cetagme vogsa. Misco ma gi sedaluk votuplo midap je gav hifojcup pucu kewabju tikat hej."
+  },
+  "apiKey": "f6a8bdc24ec0c254974df71b3ec6f09ba89e7f532f70e8ca11969c3a5774b2e4",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
